@@ -1,2 +1,2 @@
-# File_Manager.py
+# File_Manager
 Script to manage downloaded files in windows 
